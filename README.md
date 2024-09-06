@@ -6,8 +6,3 @@ Task 1: CarDhulvao - Responsive Landing Page
 Overview: Developed a responsive landing page for the CarDhulvao project.
 Tech Used: HTML, CSS, JavaScript.
 Role and Responsibilities: Designed and implemented the front-end layout, ensuring responsiveness across devices.
-Task 2: Stopwatch Web Application
-
-Overview: Created a functional stopwatch web application.
-Tech Used: HTML, CSS, JavaScript.
-Role and Responsibilities: Developed the application’s user interface and implemented the stopwatch functionality.
